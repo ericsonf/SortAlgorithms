@@ -1,4 +1,3 @@
-[![Build and deploy ASP.Net Core app to Azure Web App - app-factorial](https://github.com/ericsonf/Factorial/actions/workflows/main_app-factorial.yml/badge.svg)](https://github.com/ericsonf/Factorial/actions/workflows/main_app-factorial.yml) &nbsp;
 <a href="https://twitter.com/intent/follow?screen_name=ericsonf">
   <img src="https://img.shields.io/twitter/follow/ericsonf.svg?label=Follow%20@ericsonf" alt="Follow @ericsonf" />
 </a>
